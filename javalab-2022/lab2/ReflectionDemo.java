@@ -1,5 +1,5 @@
 import java.lang.reflect.*;
-public class ReflectDemo{
+public class ReflectionDemo{
     public static void main(String args[]){
         try {
             Class c=Class.forName("java.util.Stack");
