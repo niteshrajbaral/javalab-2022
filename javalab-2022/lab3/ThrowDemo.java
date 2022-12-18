@@ -15,7 +15,7 @@ class ThrowDemo {
 	}
 
 	public static void main(String args[]) {
-		double myGpa = 5;
+		double myGpa = 7;
 		validate_gpa(myGpa) ;
 	}
 }
